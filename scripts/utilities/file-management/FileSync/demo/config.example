@@ -1,0 +1,9 @@
+{
+  "SOURCE_DIR": "/path/to/source/directory",
+  "TARGET_DIR": "/path/to/target/directory",
+  "FILE_NAME": "your_file.bin",
+  "SERVICE_NAME": "MyFileSyncService",
+  "SERVICE_DISPLAY_NAME": "我的文件同步服务",
+  "SYNC_INTERVAL": 10,
+  "RETRY_DELAY": 60
+}
